@@ -56,3 +56,8 @@ body{
     color: #000000;
     font-family: 'Montserrat', sans-serif;
 }
+
+#img {
+    box-shadow: #22D4FD;
+    border-radius: 50px;
+}
